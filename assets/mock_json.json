@@ -1,0 +1,276 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "full_name": "John Doe",
+      "age": 30,
+      "gender": "male",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "Anystate",
+        "country": "USA",
+        "zip_code": "12345"
+      },
+      "phone_numbers": [
+        {
+          "type": "home",
+          "number": "123-456-7890"
+        },
+        {
+          "type": "work",
+          "number": "987-654-3210"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane.smith@example.com",
+      "password": "p@ssw0rd",
+      "full_name": "Jane Smith",
+      "age": 25,
+      "gender": "female",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Sometown",
+        "state": "Anotherstate",
+        "country": "USA",
+        "zip_code": "54321"
+      },
+      "phone_numbers": [
+        {
+          "type": "mobile",
+          "number": "111-222-3333"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "username": "mike_jones",
+      "email": "mike.jones@example.com",
+      "password": "securepass",
+      "full_name": "Mike Jones",
+      "age": 40,
+      "gender": "male",
+      "address": {
+        "street": "789 Oak St",
+        "city": "Othertown",
+        "state": "Anotherstate",
+        "country": "USA",
+        "zip_code": "67890"
+      },
+      "phone_numbers": [
+        {
+          "type": "home",
+          "number": "444-555-6666"
+        },
+        {
+          "type": "mobile",
+          "number": "777-888-9999"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "username": "sara_johnson",
+      "email": "sara.johnson@example.com",
+      "password": "mypassword",
+      "full_name": "Sara Johnson",
+      "age": 35,
+      "gender": "female",
+      "address": {
+        "street": "321 Pine St",
+        "city": "Anycity",
+        "state": "Anystate",
+        "country": "USA",
+        "zip_code": "54321"
+      },
+      "phone_numbers": [
+        {
+          "type": "work",
+          "number": "222-333-4444"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "username": "david_smith",
+      "email": "david.smith@example.com",
+      "password": "d@v!d",
+      "full_name": "David Smith",
+      "age": 28,
+      "gender": "male",
+      "address": {
+        "street": "789 Maple St",
+        "city": "Somewhere",
+        "state": "Anystate",
+        "country": "USA",
+        "zip_code": "98765"
+      },
+      "phone_numbers": [
+        {
+          "type": "mobile",
+          "number": "333-444-5555"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "username": "emily_brown",
+      "email": "emily.brown@example.com",
+      "password": "browny",
+      "full_name": "Emily Brown",
+      "age": 32,
+      "gender": "female",
+      "address": {
+        "street": "654 Cedar St",
+        "city": "Anyplace",
+        "state": "Anystate",
+        "country": "USA",
+        "zip_code": "13579"
+      },
+      "phone_numbers": [
+        {
+          "type": "home",
+          "number": "555-666-7777"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "username": "alex_wilson",
+      "email": "alex.wilson@example.com",
+      "password": "wilson12",
+      "full_name": "Alex Wilson",
+      "age": 45,
+      "gender": "male",
+      "address": {
+        "street": "987 Pine St",
+        "city": "Anotherplace",
+        "state": "Anotherstate",
+        "country": "USA",
+        "zip_code": "24680"
+      },
+      "phone_numbers": [
+        {
+          "type": "work",
+          "number": "777-888-9999"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "username": "lisa_taylor",
+      "email": "lisa.taylor@example.com",
+      "password": "lisa1234",
+      "full_name": "Lisa Taylor",
+      "age": 22,
+      "gender": "female",
+      "address": {
+        "street": "357 Oak St",
+        "city": "Anyville",
+        "state": "Anystate",
+        "country": "USA",
+        "zip_code": "86420"
+      },
+      "phone_numbers": [
+        {
+          "type": "mobile",
+          "number": "888-999-0000"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "username": "peter_clark",
+      "email": "peter.clark@example.com",
+      "password": "peterpass",
+      "full_name": "Peter Clark",
+      "age": 27,
+      "gender": "male",
+      "address": {
+        "street": "159 Elm St",
+        "city": "Anothercity",
+        "state": "Anotherstate",
+        "country": "USA",
+        "zip_code": "75309"
+      },
+      "phone_numbers": [
+        {
+          "type": "home",
+          "number": "111-222-3333"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "username": "sophia_baker",
+      "email": "sophia.baker@example.com",
+      "password": "bakersophia",
+      "full_name": "Sophia Baker",
+      "age": 29,
+      "gender": "female",
+      "address": {
+        "street": "852 Maple St",
+        "city": "Yetanothercity",
+        "state": "Anystate",
+        "country": "USA",
+        "zip_code": "98765"
+      },
+      "phone_numbers": [
+        {
+          "type": "work",
+          "number": "999-888-7777"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "username": "mark_andrews",
+      "email": "mark.andrews@example.com",
+      "password": "andrews123",
+      "full_name": "Mark Andrews",
+      "age": 33,
+      "gender": "male",
+      "address": {
+        "street": "963 Oak St",
+        "city": "Anothercity",
+        "state": "Anotherstate",
+        "country": "USA",
+        "zip_code": "13579"
+      },
+      "phone_numbers": [
+        {
+          "type": "home",
+          "number": "777-666-5555"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "username": "amy_collins",
+      "email": "amy.collins@example.com",
+      "password": "collinsamy",
+      "full_name": "Amy Collins",
+      "age": 31,
+      "gender": "female",
+      "address": {
+        "street": "753 Pine St",
+        "city": "Someplace",
+        "state": "Anystate",
+        "country": "USA",
+        "zip_code": "36912"
+      },
+      "phone_numbers": [
+        {
+          "type": "work",
+          "number": "444-555-6666"
+        }
+      ]
+    }
+  ]
+}

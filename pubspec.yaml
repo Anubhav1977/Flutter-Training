@@ -1,0 +1,38 @@
+name: loginpageui
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.0
+  fluttertoast: ^8.2.5
+  font_awesome_flutter: ^10.7.0
+  image_picker: ^1.0.8
+  shared_preferences: ^2.2.3
+  intl: ^0.19.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/mock_json.json
+  #  - images/a_dot_ham.jpeg
+  fonts:
+    - family: roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
