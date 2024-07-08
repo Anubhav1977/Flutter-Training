@@ -74,13 +74,13 @@ class _AnimatedContainerWidgetState extends State<AnimatedContainerWidget> {
                       });
                     },
                     child: Text("Color"),
-),
-],
-),
-),
-],
-),
-),
-);
-}
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
 }
